@@ -18,4 +18,13 @@
 | Package | GitHub | CRAN |
 |:----------------:|:----------------:|:----------------:|
 [_microbiomeutilities_](https://github.com/microsud/microbiomeutilities) | ![](https://github.com/microsud/microbiomeutilities/workflows/R-CMD-check/badge.svg)  
-[_Tools-Microbiome-Analysis_](https://github.com/microsud/Tools-Microbiome-Analysis) | |
+[_Tools-Microbiome-Analysis_](https://github.com/microsud/Tools-Microbiome-Analysis) | |  
+
+
+**Resources:**
+| Resource | GitHub | Note |
+|:----------------:|:----------------:|:----------------:|
+[_Tools-Microbiome-Analysis_](https://github.com/microsud/Tools-Microbiome-Analysis) |  | Creator and Maintainer 
+[_MiaBook_](https://github.com/microbiome/MiaBook) |  | Contributor
+
+
