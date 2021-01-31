@@ -12,19 +12,20 @@
 | [_microbiome_](https://github.com/antagomir/microbiome) | [![](http://bioconductor.org/shields/build/devel/bioc/microbiome.svg)](http://bioconductor.org/checkResults/devel/bioc-LATEST/microbiome) |[![](http://bioconductor.org/shields/build/release/bioc/microbiome.svg)](http://bioconductor.org/checkResults/release/bioc-LATEST/microbiome) |
 | [_mia_](https://github.com/FelixErnst/mia) |  |[![](https://github.com/FelixErnst/mia/workflows/R-CMD-check-bioc-devel/badge.svg)](https://github.com/FelixErnst/mia/actions?query=workflow:R-CMD-check-bioc-devel) |
 | [_microbiomeDataSets_](https://github.com/microbiome/microbiomeDataSets) | | 
+| [_miaViz_](https://github.com/microbiome/miaViz) | | [![](https://github.com/microbiome/miaViz/workflows/R-CMD-check-bioc-devel/badge.svg)]
 
 
 **Developer/Maintainer:**   
 | Package | GitHub | CRAN |
 |:----------------:|:----------------:|:----------------:|
 [_microbiomeutilities_](https://github.com/microsud/microbiomeutilities) | ![](https://github.com/microsud/microbiomeutilities/workflows/R-CMD-check/badge.svg)  
-[_Tools-Microbiome-Analysis_](https://github.com/microsud/Tools-Microbiome-Analysis) | |  
+[_biomestats_](Under development) | |  
 
 
 **Resources:**
-| Resource | GitHub | Note |
-|:----------------:|:----------------:|:----------------:|
-[_Tools-Microbiome-Analysis_](https://github.com/microsud/Tools-Microbiome-Analysis) |  | Creator and Maintainer 
-[_MiaBook_](https://github.com/microbiome/MiaBook) |  | Contributor
-
+| Resource | Note |
+|:----------------:|:----------------:|
+[_Tools-Microbiome-Analysis_](https://github.com/microsud/Tools-Microbiome-Analysis) | Creator and Maintainer | 
+[_Microbial-bioinformatics-introductory-course-Material-2018_](https://mibwurrepo.github.io/Microbial-bioinformatics-introductory-course-Material-2018/introduction.html) | Creator and Maintainer | 
+[_MiaBook_](https://github.com/microbiome/MiaBook) | Contributor |  
 
