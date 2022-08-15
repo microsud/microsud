@@ -8,11 +8,11 @@
   
  :rocket:  You can see my personal website at [microsud.github.io](https://microsud.github.io/sudarshanshetty.io/)
  
- :hammer: Follow me on Twitter [@gutmicrobe](https://twitter.com/gutmicrobe)
+ :chains: Follow me on Twitter [@gutmicrobe](https://twitter.com/gutmicrobe)
  
  :busts_in_silhouette:  Take a look at my LinkedIn profile: [linkedin.com/in/sudarshan-shetty](https://www.linkedin.com/in/sudarshan-shetty-57345822/)
  
- :black_nib: My research at [Google Scholar](https://scholar.google.nl/citations?user=Vahc6LUAAAAJ&hl=en)     
+ :microscope: My research at [Google Scholar](https://scholar.google.nl/citations?user=Vahc6LUAAAAJ&hl=en)     
  
 <!--START_SECTION:waka-->
 
