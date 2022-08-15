@@ -16,11 +16,13 @@
 
 
 **Developer/Maintainer:**   
-| Package | GitHub | CRAN |
+| Package | GitHub | CRAN | 
 |:----------------:|:----------------:|:----------------:|
-[_microbiomeutilities_](https://github.com/microsud/microbiomeutilities) | ![](https://github.com/microsud/microbiomeutilities/workflows/R-CMD-check/badge.svg)  
-[_biomestats_](Under development) | |  
-
+_microbiomeutilities_ | [Source code](https://github.com/microsud/microbiomeutilities) |      
+_biomeUtils_ | [Source code](https://github.com/RIVM-IIV-Microbiome/biomeUtils) |        
+_biomeViz_ | [Source code](https://github.com/RIVM-IIV-Microbiome/biomeViz) |  
+_syncomR_ | [Source code](https://github.com/microsud/syncomR) |    
+_chkMocks_ | [Source code](https://github.com/microsud/chkMocks) |       
 
 **Resources:**
 | Resource | Note |
